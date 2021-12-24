@@ -12,6 +12,10 @@ https://github.com/kaltura/KalturaGeneratedAPIClientsPHP
 Read more in the Event Handler Readme
 https://github.com/kaltura/DeveloperPortalDocs/blob/master/documentation/Integration-Scheduling-and-Hooks/how-handle-kaltura-server-notifications-in-php.md 
 
+Example Custom Metadata Schema provided as png and xml
+
+Example HTTP Event Notification configuration  provided as png
+
 Some of the changes performed:
 - Changed Kaltura Service URL to HTTPS
 - Added logic to evaluate owner ID and update custom metadata schema to identify content owner as 'faculty', 'student' or 'other'
